@@ -1,0 +1,23 @@
+h1{
+    color: goldenrod;
+} 
+.special:hover{
+    color: blue;
+    font-size: 40px;
+    background-color: aqua;
+}  
+input{
+    
+    margin-bottom: 30px;
+}
+input:focus{
+    font-weight: 500px;
+    color: brown;
+    font-size: large;
+} 
+li:nth-child(2n+1){
+    background-color: aqua;
+}
+a:visited{
+    color: brown;
+}
